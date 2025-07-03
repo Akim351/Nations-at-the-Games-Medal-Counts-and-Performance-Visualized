@@ -7,3 +7,5 @@ This Tableau project explores patterns and insights from Olympic Games data, pri
 - Gender participation trends over time
 - Top-performing athletes and sports
 - Geographical medal distribution
+
+  ## Tools Used:
