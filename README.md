@@ -9,3 +9,7 @@ This Tableau project explores patterns and insights from Olympic Games data, pri
 - Geographical medal distribution
 
   ## Tools Used:
+- Tableau Public
+- CSV data manipulation
+- Dataset joining for multidimensional analysis
+
